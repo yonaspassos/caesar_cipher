@@ -1,0 +1,7 @@
+{
+	"numero_casas": 10,
+	"token":"89dc8e7e8ab5e49a9edde1d885fb601fa627e4c8",
+	"cifrado": "texto criptografado",
+	"decifrado": "aqui vai o texto decifrado",
+	"resumo_criptografico": "aqui vai o resumo"
+}
